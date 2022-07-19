@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteEngine ^(.*)$ index.php?url=$1 [L,QSA]
+RewriteRule ^(.*)$ index.html?url=$1 [L,QSA]
