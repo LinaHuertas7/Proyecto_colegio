@@ -1,1 +1,1 @@
-# proyectoColegio
+# Proyecto Colegio
